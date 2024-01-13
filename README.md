@@ -1,1 +1,20 @@
-# how to deal with unresponsive SME #
+# How to deal with unresponsive SME #
+
+So, you landed your dream job of a technical writer, now you rule the world. But, wait a minute, you won’t get anywhere if you don’t get along with this overworked and introverted SME. How to move on with your job if they are not in the mood for cooperation or simply do not have time for you?
+
+SME, that is Subject Matter Expert,  provides the knowledge and expertise in a specific subject, business area, or technical area for a project or a program.  Therefore, you need them to flow with your own work, as they make you familiar with the product you are creating manuals for.
+## Here are some tips on how to reach them ##
+
+ **Work on a relationship:** treat SME as friendly as possible, express your interest in his hobbies, family, find some common topics to talk to other than work, present yourself as the nicest person in the world, invite for coffee / tea / cake, whatever, be a person, not just a colleague.
+
+**Respect their time:** always be prepared for the meeting, ask only relevant and necessary questions: always check if the information you are looking for can be  found in other resources.
+Set deadlines for meetings: suggest a date and ask if it is suitable for them, also give a gist of what you are going to talk about, so that SME will know how much time they should prepare for the meeting.
+
+**Communicate on their terms:**  find out what way of communication suits them best – email, phone conversation, via Teams / Zoom (or other app) or maybe in person.  When you learn that, adjust your own routine to theirs.
+
+**Praise:**  most people love being appreciated. If you consider their ideas to be great, tell that not them and but also their supervisors.
+
+**Give something in return:**  offer some help with proofreading their report, or just simply assure them that they can count on you with some menial tasks that won’t be laborious for you that would make a difference in your mutual working relationship
+
+## Conclusion ##
+Be direct, don’t beat about the bush, just speak the specifics. But above all, create and maintain a long-lasting relationship not only at work but also a personal one. Paraphrasing biblical commandment: honor SME as yourself.
