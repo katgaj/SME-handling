@@ -2,7 +2,7 @@
 
 So, you got your dream job of a technical writer, now you rule the world. But, wait a minute, you won’t get anywhere if you don’t communicate with this overworked and introverted SME. How to continue your job if they are not in the mood for cooperation or simply do not have time for you?
 
-SME, that is Subject Matter Expert,  provides the knowledge and expertise in a specific subject, business area, or technical area for a project or a program.  Therefore, you need them to flow with your own work, as they make you familiar with the product you are creating manuals for.
+SME, that is Subject Matter Expert,  provides the knowledge and expertise in a specific subject, business area, or technical area for a project or a program.  Therefore, you need them to continue with your own work, as they make you familiar with the product you are creating manuals for.
 ## Here are some tips on how to reach them ##
 
  1. **Work on a relationship:** treat SME as friendly as possible, express your interest in his hobbies, family, find some common topics to talk to other than work, present yourself as the nicest person in the world, invite for coffee / tea / cake, whatever, be a person, not just a colleague.
