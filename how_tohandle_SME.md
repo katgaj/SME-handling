@@ -20,4 +20,4 @@ Set deadlines for meetings: suggest a date and ask if it is suitable for them. G
 4. Finally, if all the above steps do not work, *escalate.* After all, you work for the same team and the SME’s lack of cooperation won’t make any good for the company.
 
 ## Conclusion ##
-Be direct, don’t beat about the bush, just speak the specifics. But above all, create and maintain a long-lasting relationship not only at work but also a personal one. Paraphrasing biblical commandment: honor SME as yourself.
+Be direct, speak the specifics. But above all, create and maintain a long-lasting relationship not only at work but also a personal one. Paraphrasing biblical commandment: honor SME as yourself.
