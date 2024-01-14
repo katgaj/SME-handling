@@ -1,6 +1,6 @@
 # How to deal with unresponsive SME #
 
-So, you got your dream job of a technical writer, now you rule the world. But, wait a minute, you won’t get anywhere if you don’t get along with this overworked and introverted SME. How to move on with your job if they are not in the mood for cooperation or simply do not have time for you?
+So, you got your dream job of a technical writer, now you rule the world. But, wait a minute, you won’t get anywhere if you don’t communicate with this overworked and introverted SME. How to continue your job if they are not in the mood for cooperation or simply do not have time for you?
 
 SME, that is Subject Matter Expert,  provides the knowledge and expertise in a specific subject, business area, or technical area for a project or a program.  Therefore, you need them to flow with your own work, as they make you familiar with the product you are creating manuals for.
 ## Here are some tips on how to reach them ##
