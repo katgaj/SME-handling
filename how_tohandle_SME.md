@@ -10,7 +10,7 @@ SME, that is Subject Matter Expert,  provides the knowledge and expertise in a s
 2. **Respect their time:** always be prepared for the meeting, ask only relevant and necessary questions: always check if the information you are looking for can be  found in other resources.
 Set deadlines for meetings: suggest a date and ask if it is suitable for them, also give a gist of what you are going to talk about, so that SME will know how much time they should prepare for the meeting.
 
-3. **Communicate on their terms:**  find out what way of communication suits them best – email, phone conversation, via Teams / Zoom (or other app) or maybe in person.  When you learn that, adjust your own routine to theirs.
+3. **Communicate on their terms:**  learn what way of communication suits them best – email, phone conversation, via Teams / Zoom (or other app) or maybe in person.  When you learn that, adjust your own routine to theirs.
 
 4. **Praise:**  most people love being appreciated. If you consider their ideas to be great, tell that not them and but also their supervisors.
 
