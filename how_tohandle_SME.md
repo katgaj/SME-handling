@@ -13,7 +13,7 @@ Set deadlines for meetings: suggest a date and ask if it is suitable for them, a
 
 3. *Communicate on their terms:* learn what way of communication suits them best – email, phone conversation, via Teams / Zoom (or other app) or maybe in person.  When you learn that, adjust your own routine to theirs.
 
-4. *Praise:* most people love being appreciated. If you consider their ideas to be great, tell that not them and but also their supervisors.
+4. *Praise:* most people love when you appreciate their work. If you consider their ideas to be great, tell that not them and but also their supervisors.
 
 5. *Give something in return:* offer some help with proofreading their report, or just simply assure them that they can count on you with some menial tasks that won’t be laborious for you that would make a difference in your mutual working relationship
    
