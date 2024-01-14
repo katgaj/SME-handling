@@ -15,7 +15,7 @@ Set deadlines for meetings: suggest a date and ask if it is suitable for them, a
 
 4. *Praise:* most people love when you appreciate their work. If you consider their ideas to be great, tell that not them and but also their supervisors.
 
-5. *Give something in return:* offer some help with proofreading their report, or simply assure them that they can count on you with some menial tasks that won’t be difficult for you that would make a difference in your working relationship.
+5. *Give something in return:* offer some help with proofreading their report, orassure them that they can count on you with some tasks that won’t be difficult for you that would make a difference in your working relationship.
    
 6. Finally, if all the above steps do not work, *escalate.* After all, you work for the same team and the SME’s lack of cooperation won’t make any good for the company.
 
